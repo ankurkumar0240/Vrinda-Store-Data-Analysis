@@ -7,7 +7,7 @@ Developed an interactive Excel dashboard to analyze 2022 e-commerce sales perfor
 
 Vrinda Store Sales Analysis Dashboard | MS Excel, Pivot Tables, Data Visualization, Business Analytics
 
-Key Skills to Add
+**Key Skills to Add**
 Microsoft Excel
 Data Cleaning
 Pivot Tables
